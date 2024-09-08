@@ -3,10 +3,11 @@
 |类型| 序号 | Title | Fields |
 |:-| :- | :- | :- |
 |论文|  |  |  |
-|| 1 | CacheGen KV Cache Compression and Streaming for Fast Large | LLM, kv cache, network |
-|| 2 | Efficient Memory Management for Large Language |  |
+|| 1 | [CacheGen KV Cache Compression and Streaming for Fast Large](https://github.com/troyyxk/paper_review/tree/main/CacheGen%20KV%20Cache%20Compression%20and%20Streaming%20for%20Fast%20Large) | LLM, kv cache, network |
+|| 2 | [Efficient Memory Management for Large Language](https://github.com/troyyxk/paper_review/tree/main/Efficient%20Memory%20Management%20for%20Large%20Language) |  |
 || 3 | User-Centric Interactive AI for Distributed Diffusion Model-based AI-Generated Content | difussion model, network |
-|| 4 | Online GNN Evaluation Under Test-Time Graph Distribution Shifts | GNN |
+|| 4 | [Online GNN Evaluation Under Test-Time Graph Distribution Shifts](https://github.com/troyyxk/paper_review/tree/main/Online%20GNN%20Evaluation%20Under%20Test-Time%20Graph%20Distribution%20Shifts) | GNN |
+|| 4 | [Towards Efficient Generative Large Language Model Serving: A Survey from Algorithms to Systems](https://github.com/troyyxk/paper_review/tree/main/Online%20GNN%20Evaluation%20Under%20Test-Time%20Graph%20Distribution%20Shifts) | MLSys |
 | 知乎 |  |  |  |
 || 1 | 聊聊大模型推理内存管理之 CachedAttention/MLA | MLSys |
 || 2 | 聊聊大模型推理中的分离式推理 | MLSys |
