@@ -7,7 +7,9 @@
 || 2 | [Efficient Memory Management for Large Language](https://github.com/troyyxk/paper_review/tree/main/Efficient%20Memory%20Management%20for%20Large%20Language) |  |
 || 3 | User-Centric Interactive AI for Distributed Diffusion Model-based AI-Generated Content | difussion model, network |
 || 4 | [Online GNN Evaluation Under Test-Time Graph Distribution Shifts](https://github.com/troyyxk/paper_review/tree/main/Online%20GNN%20Evaluation%20Under%20Test-Time%20Graph%20Distribution%20Shifts) | GNN |
-|| 4 | [Towards Efficient Generative Large Language Model Serving: A Survey from Algorithms to Systems](https://github.com/troyyxk/paper_review/tree/main/Towards%20Efficient%20Generative%20Large%20Language%20Model%20Serving%20A%20Survey%20from%20Algorithms%20to%20Systems) | MLSys |
+|| 5 | [Towards Efficient Generative Large Language Model Serving: A Survey from Algorithms to Systems](https://github.com/troyyxk/paper_review/tree/main/Towards%20Efficient%20Generative%20Large%20Language%20Model%20Serving%20A%20Survey%20from%20Algorithms%20to%20Systems) | MLSys |
+|| 6 | [Splitwise: Efficient generative LLM inference using phase splitting](https://github.com/troyyxk/paper_review/tree/main/Towards%20Efficient%20Generative%20Large%20Language%20Model%20Serving%20A%20Survey%20from%20Algorithms%20to%20Systems) | MLSys |
+|| 7 | [NanoFlow: Towards Optimal Large Language Model Serving Throughput](https://github.com/troyyxk/paper_review/tree/main/Towards%20Efficient%20Generative%20Large%20Language%20Model%20Serving%20A%20Survey%20from%20Algorithms%20to%20Systems) | MLSys |
 | 知乎 |  |  |  |
 || 1 | 聊聊大模型推理内存管理之 CachedAttention/MLA | MLSys |
 || 2 | 聊聊大模型推理中的分离式推理 | MLSys |
