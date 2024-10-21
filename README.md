@@ -10,7 +10,8 @@
 || 5 | [Towards Efficient Generative Large Language Model Serving: A Survey from Algorithms to Systems](https://github.com/troyyxk/paper_review/tree/main/Towards%20Efficient%20Generative%20Large%20Language%20Model%20Serving%20A%20Survey%20from%20Algorithms%20to%20Systems) | MLSys |
 || 6 | [Splitwise: Efficient generative LLM inference using phase splitting](https://github.com/troyyxk/paper_review/tree/main/Splitwise%20Efficient%20generative%20LLM%20inference%20using%20phase%20splitting) | MLSys |
 || 7 | [NanoFlow: Towards Optimal Large Language Model Serving Throughput](https://github.com/troyyxk/paper_review/tree/main/NanoFlow%20Towards%20Optimal%20Large%20Language%20Model%20Serving%20Throughput) | MLSys |
-|| 7 | [TPI-LLM: Serving 70B-scale LLMs Efficiently on Low-resource Edge Devices](https://github.com/troyyxk/paper_review/tree/main/TPI-LLM%20Serving%2070B-scale%20LLMs%20Efficiently%20on%20Low-resource%20Edge%20Devices) | MLSys, Network |
+|| 8 | [TPI-LLM: Serving 70B-scale LLMs Efficiently on Low-resource Edge Devices](https://github.com/troyyxk/paper_review/tree/main/TPI-LLM%20Serving%2070B-scale%20LLMs%20Efficiently%20on%20Low-resource%20Edge%20Devices) | MLSys, Network |
+|| 9 | [SimLayerKV A Simple Framework for Layer-Level KV Cache Reduction](https://github.com/troyyxk/paper_review/tree/main/TPI-LLM%20Serving%2070B-scale%20LLMs%20Efficiently%20on%20Low-resource%20Edge%20Devices) | MLSys, KV cache |
 | 知乎 |  |  |  |
 || 1 | 聊聊大模型推理内存管理之 CachedAttention/MLA | MLSys |
 || 2 | 聊聊大模型推理中的分离式推理 | MLSys |
