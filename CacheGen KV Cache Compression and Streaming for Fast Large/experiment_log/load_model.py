@@ -257,7 +257,6 @@ def load_model(
                 warnings.warn(
                     "Intel Extension for PyTorch is not installed, it can be installed to accelerate cpu inference"
                 )
-    # TODO, USE cuda
     elif device == "cuda":
         kwargs = {"torch_dtype": torch.float16}
         if num_gpus != 1:
@@ -305,7 +304,6 @@ def load_model(
         raise ValueError(f"Invalid device: {device}")
 
     if cpu_offloading:
-        # TODO, not here
         # raises an error on incompatible platforms
         from transformers import BitsAndBytesConfig
 
@@ -318,7 +316,6 @@ def load_model(
         )
         kwargs["load_in_8bit"] = load_8bit
     elif load_8bit:
-        # TODO, here!
         if num_gpus != 1:
             warnings.warn(
                 "8-bit quantization is not supported for multi-gpu inference."
