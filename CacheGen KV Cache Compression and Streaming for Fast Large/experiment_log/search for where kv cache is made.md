@@ -35,7 +35,6 @@ store()里的kv_tensors
 cache_engine.py LMCacheEngineBuilder
 engine = LMCacheEngine(config, metadata)
 
-TODO, 后面在哪用了 LMCacheEngine 或者LMCacheEngineBuilder
 
 ## lmcache-vllm
 
