@@ -13,6 +13,7 @@
 || 8 | [TPI-LLM: Serving 70B-scale LLMs Efficiently on Low-resource Edge Devices](https://github.com/troyyxk/paper_review/tree/main/TPI-LLM%20Serving%2070B-scale%20LLMs%20Efficiently%20on%20Low-resource%20Edge%20Devices) | MLSys, Network |
 || 9 | [SimLayerKV A Simple Framework for Layer-Level KV Cache Reduction](https://github.com/troyyxk/paper_review/tree/main/SimLayerKV%20A%20Simple%20Framework%20for%20Layer-Level%20KV%20Cache%20Reduction) | MLSys, KV cache |
 || 10 | [AI-Generated Incentive Mechanism and Full-Duplex Semantic Communications for Information Sharing](https://github.com/troyyxk/paper_review/tree/main/SimLayerKV%20A%20Simple%20Framework%20for%20Layer-Level%20KV%20Cache%20Reduction) | MLSys, Network |
+|| 10 | [AI-Generated Incentive Mechanism and Full-Duplex Semantic Communications for Information Sharing](https://github.com/troyyxk/paper_review/tree/main/SimLayerKV%20A%20Simple%20Framework%20for%20Layer-Level%20KV%20Cache%20Reduction) | MLSys, Network |
 | 知乎 |  |  |  |
 || 1 | 聊聊大模型推理内存管理之 CachedAttention/MLA | MLSys |
 || 2 | 聊聊大模型推理中的分离式推理 | MLSys |
