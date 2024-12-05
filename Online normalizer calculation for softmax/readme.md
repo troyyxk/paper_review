@@ -6,6 +6,7 @@ softamx公式很常见，这篇文章尝试减少IO操作，优化softmax公式
 algorithm 1是基础的softmax，3个io，但是有overflow和underflow的风险 \
 algorithm 2是一个safe softmax，但是4个io \
 algorithm 3是作者提出的online algorithm，既safe，又只用了3个io，作者提供了证明，整体设计的很妙 \
+- 之后还指出了，怎么parallel，可以concurrently运行
 algorithm 4，没看，有关top-k，之后看看
 
 之前不是很理解 algorithm 3，在 get_softmax_algorithms.py 写了一半就发现问题了
