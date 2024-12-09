@@ -11,7 +11,7 @@ layer norm相对于batch norm的
 
 decoder里mask是为了不让transformer在预测t的时候，看到t之后的，t+1, t+2...的输入
 
-/(sqrt(dk))是因为不这么做，回更极端，更加只有1和0（接近），gradient会比较小
+/(sqrt(dk))是因为不这么做，会更极端，更加只有1和0（接近），gradient会比较小
 
 matmul就是乘
 

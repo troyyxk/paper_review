@@ -20,3 +20,9 @@
 || 2 | 聊聊大模型推理中的分离式推理 | MLSys |
 || 3 | Mooncake阅读笔记：深入学习以Cache为中心的调度思想，谱写LLM服务降本增效新篇章 | MLSys |
 || 4 | 量化那些事之KVCache的量化 | MLSys |
+
+https://github.com/DefTruth/Awesome-LLM-Inference
+https://www.zhihu.com/people/feifeibear/posts
+
+kv cache 变大，数据库的方式管理
+
