@@ -1,13 +1,6 @@
-
-
-Huawei Cloud is the cloud brand of Huawei Group and curently ranks as the second larest cloud service provider in China and the fith inthe world. Computing and network innovation ab is exploring how to utilize Linggu and UB networks to connect geo-distributed data centersalming to provide large-scale cloud network services. This also includes cloud services for training and inference tasks. We are studyingnetwork transmission optimization technologies for Al large model training across regions (across data centers with a distance of 2000 km to3000 km).There are many technical challenges in this
-Currently, we are looking for patners in this field to jointly research on the collaborative support of multimodal models by cloud datacenterslEdge-cloudidevices, as well as how cloud networks can iteratively support LLM (including long context and multimodal models)
+Huawei Cloud is the cloud brand of Huawei Group and curently ranks as the second larest cloud service provider in China and the fith inthe world. Computing and network innovation ab is exploring how to utilize Linggu and UB networks to connect geo-distributed data centersalming to provide large-scale cloud network services. This also includes cloud services for training and inference tasks. We are studyingnetwork transmission optimization technologies for Al large model training across regions (across data centers with a distance of 2000 km to3000 km).There are many technical challenges in this \
+Currently, we are looking for patners in this field to jointly research on the collaborative support of multimodal models by cloud datacenterslEdge-cloudidevices, as well as how cloud networks can iteratively support LLM (including long context and multimodal models) \
 am reaching out to see if we could schedule a one-hour online meeting at your convenience. l would appreciate the opportunity to discusspotential colaboration and share insights related to our work. lf it is convenient for you, could you please provide two time slots that areconvenient for you?
-Thank you very much for your time and consideration. Looking forward to your reply
-Best regards,
-冷浕伶 /Leng Jinling(Ph.D.)
-华为云计算技术有限公司 架构与技术创新部 技术规划团队Huawei Cloud Computing Technologies Co. td. Architecture & Technical Planning Dept, Technology Planning and Cooperation Team中国(China)-北京(Beiiing)-海淀区(Haidian)-华为北京研究所-华为大厦Huawei Beiing Research Center, Xinxi Road 3#, Haidian, Beiing. P.R.ChinaMobile/x:13190078478
-E-mail:lengiinling@huawei.com
 
 # ######################################################################################################
 
@@ -47,8 +40,11 @@ Related papers:
             - 和16比2*8强关系不大
 - [1] 3.2.2 Node-to-Node Communications
     - Remote Direct Memory Access (RDMA)
+        - 能直接 access memory, 那 16 就是比2*8 强
 - [1] 4.1.1 Data Parallelism [1] 4.1.3 Pipeline Parallelism
     - sharding of model and data can utilize 
+
+    topo & algo together
 
 # ######################################################################################################
 
